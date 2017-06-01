@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Carlos\.android\build-cache\531ab2f4af2d1f20967fcd8b1033cee42f152240\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Carlos\.android\build-cache\4c2cda6743227fce0d2f4e0ed2fd029f27f9d6e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Carlos\.android\build-cache\21767b482c96f13df8b2467900f8b6a0b5f495d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Carlos\.android\build-cache\8f0d342551be5b35a31218e452cf4fccbfeed82a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Carlos\.android\build-cache\cbe28c1986f5d37d839fda3815af81af513424da\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\d62291a33d15b4044aaed78196142915818a3cdf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\4c75ef2fcfb564613969d96f1125d5880fb2877d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Carlos\.android\build-cache\b032c0f93224dc0ae5318b8b276f2e99d3c80b11\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Carlos\.android\build-cache\37e916c6cab68253a7ad27ab4edc9730e6f5dac4\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.carlos.fragments.MainActivity
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Carlos\.android\build-cache\531ab2f4af2d1f20967fcd8b1033cee42f152240\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Carlos\.android\build-cache\4c2cda6743227fce0d2f4e0ed2fd029f27f9d6e7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Carlos\.android\build-cache\21767b482c96f13df8b2467900f8b6a0b5f495d3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Carlos\.android\build-cache\8f0d342551be5b35a31218e452cf4fccbfeed82a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Carlos\.android\build-cache\cbe28c1986f5d37d839fda3815af81af513424da\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\d62291a33d15b4044aaed78196142915818a3cdf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\4c75ef2fcfb564613969d96f1125d5880fb2877d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Carlos\.android\build-cache\b032c0f93224dc0ae5318b8b276f2e99d3c80b11\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Carlos\.android\build-cache\37e916c6cab68253a7ad27ab4edc9730e6f5dac4\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Coding\Fragments\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Carlos\.android\build-cache\531ab2f4af2d1f20967fcd8b1033cee42f152240\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Carlos\.android\build-cache\4c2cda6743227fce0d2f4e0ed2fd029f27f9d6e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Carlos\.android\build-cache\21767b482c96f13df8b2467900f8b6a0b5f495d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Carlos\.android\build-cache\8f0d342551be5b35a31218e452cf4fccbfeed82a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Carlos\.android\build-cache\cbe28c1986f5d37d839fda3815af81af513424da\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\d62291a33d15b4044aaed78196142915818a3cdf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Carlos\.android\build-cache\4c75ef2fcfb564613969d96f1125d5880fb2877d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Carlos\.android\build-cache\b032c0f93224dc0ae5318b8b276f2e99d3c80b11\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Carlos\.android\build-cache\261f7a946ac10f701e814af9ff6aabd8c859ff02\output\AndroidManifest.xml:26:9-47
